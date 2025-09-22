@@ -21,3 +21,8 @@ Sharing algorithms from my journey to explore Machine learning models:
    2. Correlation of variables and visualisation of data with box plot(numerical variables) and bar chart(categorical variables)
    3. Fitting and visualisation of decision trees with different pruning strategies and selection based on the performance on the test data
    4. Evaluation of the model on the test group using the confusion matrix and classification report
+  
+4. Random Forest: [Link]https://github.com/Shefali-Agarwal/Data-Science-Projects/blob/main/Random%20Forest%20Credit%20Card%20Data.ipynb
+   1. Data Cleaning, EDA, and data visualisation
+   2. Hyperparameter tuning with the help of Random Sampler Cross-Validation technique
+   3. Fitting of random forest and evaluation
