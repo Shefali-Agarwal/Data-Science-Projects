@@ -26,3 +26,8 @@ Sharing algorithms from my journey to explore Machine learning models:
    1. Data Cleaning, EDA, and data visualisation
    2. Hyperparameter tuning with the help of Random Sampler Cross-Validation technique
    3. Fitting of the Random Forest and evaluation
+  
+5. XG Boosted Trees: [Link](https://github.com/Shefali-Agarwal/Data-Science-Projects/blob/main/XG%20Boosted%20Trees.ipynb)
+   1. Data cleaning, visualisation, and preparation
+   2. Using the precision, recall, and threshold curve to find the optimum threshold to get the highest precision for recall above a certain limit.
+   3. Fit evaluation with a confusion matrix and metrices such as accuracy, precision, recall and F1 Score on the training and testing data.
