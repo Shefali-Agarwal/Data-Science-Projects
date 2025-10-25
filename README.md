@@ -32,7 +32,7 @@ Sharing algorithms from my journey to explore Machine learning models:
    2. Using the precision, recall, and threshold curve to find the optimum threshold to get the highest precision for recall above a certain limit.
    3. Fit evaluation with a confusion matrix and metrics such as accuracy, precision, recall, and F1 Score on the training and testing data.
   
-6. K Nearest Neighbours: [Link](
+6. K Nearest Neighbours: [Link](https://github.com/Shefali-Agarwal/Data-Science-Projects/blob/main/K%20Nearest%20Neighbours-%20Loans.ipynb)
    1. Data cleaning wherein only important columns were kept and all others were dropped
    2. Data preparation with missing values handling and encoding the categorical variables
    3. Using the accuracy score, found and used the optimal k value
