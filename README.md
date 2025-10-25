@@ -30,4 +30,9 @@ Sharing algorithms from my journey to explore Machine learning models:
 5. XG Boosted Trees: [Link](https://github.com/Shefali-Agarwal/Data-Science-Projects/blob/main/XG%20Boosted%20Trees.ipynb)
    1. Data cleaning, visualisation, and preparation
    2. Using the precision, recall, and threshold curve to find the optimum threshold to get the highest precision for recall above a certain limit.
-   3. Fit evaluation with a confusion matrix and metrices such as accuracy, precision, recall and F1 Score on the training and testing data.
+   3. Fit evaluation with a confusion matrix and metrics such as accuracy, precision, recall, and F1 Score on the training and testing data.
+  
+6. K Nearest Neighbours: [Link](
+   1. Data cleaning wherein only important columns were kept and all others were dropped
+   2. Data preparation with missing values handling and encoding the categorical variables
+   3. Using the accuracy score, found and used the optimal k value
